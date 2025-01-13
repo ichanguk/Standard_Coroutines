@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.standardkotlincoroutines"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.standardkotlincoroutines"
