@@ -7,7 +7,7 @@
 ## Contents
 
 - [Ch1. 스레드 기반 작업의 한계와 코루틴의 등장](https://github.com/ichanguk/Standard_Coroutines/tree/master/app/src/main/java/chapter1)
-- Ch2. 코루틴 개발 환경 설정
+- [Ch2. 코루틴 개발 환경 설정](https://github.com/ichanguk/Standard_Coroutines/tree/master/app/src/main/java/chapter2)
 - Ch3. CoroutineDispatcher
 - Ch4. 코루틴 빌더와 Job
 - Ch5. async와 Deferred
