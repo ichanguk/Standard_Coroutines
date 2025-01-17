@@ -1,6 +1,6 @@
 package chapter4.CoroutineStart_LAZY_사용하기2
 
-import chapter1.Thread_ThreadPool.getElapsedTime
+import getElapsedTime
 import kotlinx.coroutines.CoroutineStart
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay

@@ -1,5 +1,6 @@
 package chapter1.Thread_ThreadPool
 
+import getElapsedTime
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
 
@@ -33,6 +34,3 @@ fun main() {
 
 Process finished with exit code 0
 */
-
-fun getElapsedTime(startTime: Long): String =
-    "지난 시간: ${System.currentTimeMillis() - startTime}ms"

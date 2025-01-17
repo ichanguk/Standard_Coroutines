@@ -11,3 +11,7 @@ fun printJobState(job: Job) {
         "isCompleted >> ${job.isCompleted} "
     )
 }
+
+fun printThread(string: String) {
+    println("[${Thread.currentThread().name}] " + string)
+}

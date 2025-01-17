@@ -1,5 +1,7 @@
 package chapter1.Thread_ThreadPool
 
+import getElapsedTime
+
 fun main() {
     val startTime = System.currentTimeMillis()
 

@@ -1,6 +1,6 @@
 package chapter4.cancelAndJoin을_사용한_순차_처리
 
-import chapter1.Thread_ThreadPool.getElapsedTime
+import getElapsedTime
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.cancelAndJoin

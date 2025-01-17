@@ -1,5 +1,6 @@
 package chapter1.Thread_ThreadPool
 
+import getElapsedTime
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
 

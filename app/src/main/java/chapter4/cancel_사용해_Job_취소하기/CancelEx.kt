@@ -1,6 +1,6 @@
 package chapter4.cancel_사용해_Job_취소하기
 
-import chapter1.Thread_ThreadPool.getElapsedTime
+import getElapsedTime
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
