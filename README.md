@@ -14,7 +14,7 @@
 - [Ch4. 코루틴 빌더와 Job](https://github.com/ichanguk/Standard_Coroutines/tree/master/app/src/main/java/chapter4)
 - [Ch5. async와 Deferred](https://github.com/ichanguk/Standard_Coroutines/tree/master/app/src/main/java/chapter5)
 - [Ch6. CoroutineContext](https://github.com/ichanguk/Standard_Coroutines/tree/master/app/src/main/java/chapter6)
-- Ch7. 구조화된 동시성
+- [Ch7. 구조화된 동시성](https://github.com/ichanguk/Standard_Coroutines/tree/master/app/src/main/java/chapter7)
 - Ch8. 예외 처리
 - Ch9. 일시 중단 함수
 - Ch10. 코루틴의 이해
